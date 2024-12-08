@@ -1,0 +1,12 @@
+{
+    "name": "Stalky",
+    "symbol": "STKY",
+    "description": "Stalky is a unique meme project",
+    "image": "https://raw.githubusercontent.com/reed4u/asset/refs/heads/main/Stalky.png",
+    "attributes": [
+      {
+        "trait_type": "Item",
+        "value": "Felix"
+      }
+    ]
+}
