@@ -1,16 +1,16 @@
 {
-  "name": "Stalky",
-  "symbol": "STKY",
-  "description": "Stalky is a unique meme project that monitors and selects successful memes within Solana ecosystem, aiming to create real value for communities through competition or collaboration.",
+  "name": "Jomashop",
+  "symbol": "JOMA",
+  "description": "jomashop.",
   "image": "https://raw.githubusercontent.com/reed4u/assets/refs/heads/main/tokens/stky/token_image.png",
   "attributes": [
     {
       "trait_type": "Item",
-      "value": "Stalky Felix"
+      "value": "Felix"
     }
   ],
   "properties": {
-    "website": "https://popow.io",
+    "website": "https://jomashop.com",
     "twitter": "https://twitter.com/",
     "telegram": "https://t.me/",
     "discord": "https://discord.gg/"
