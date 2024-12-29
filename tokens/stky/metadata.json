@@ -1,0 +1,17 @@
+{
+  "name": "Stalky",
+  "symbol": "STKY",
+  "description": "aaa",
+  "extensions": {
+    "website": "https://popow.io",
+    "twitter": "",
+    "telegram": "",
+    "discord": ""
+  },
+  "creator": {
+    "name": "Popow",
+    "site": "https://popow.io"
+  },
+  "tags": [],
+  "image": "https://raw.githubusercontent.com/reed4u/assets/refs/heads/main/tokens/stky/stky.png"
+}
