@@ -1,0 +1,14 @@
+{
+  "name": "Stalky",
+  "symbol": "STKY",
+  "description": "Stalky meme",
+  "extensions": {
+    "website": "https://popw.io"
+  },
+  "creator": {
+    "name": "Popow",
+    "site": "https://popow.io"
+  },
+  "tags": [],
+  "image": "https://raw.githubusercontent.com/reed4u/assets/refs/heads/main/tokens/stky/stky.png"
+}
